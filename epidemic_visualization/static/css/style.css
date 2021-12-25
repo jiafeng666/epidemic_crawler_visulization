@@ -1,0 +1,49 @@
+
+
+
+
+
+/**/
+/*标题*/
+/**/
+.t_1{background: url(../images/t_1.png) no-repeat left center; color:#2D932B; padding:0 20px; height:40px; line-height:40px; padding-left:10px; }
+
+.t_1 h3{ color:#FFF; font-size:14px; font-weight:normal; float:left; width:140px; text-align:center; }
+.t_1 span{ color:#1372D1; font-size:12px; padding:0 5px; }
+
+.t_2{height:40px; line-height:40px; padding-left:10px; }
+
+.t_2 h3{ color:#EC5502; font-size:20px; font-weight:normal; display:inline;text-align:center; }
+.t_2 span{ color:#DDD; font-size:18px; padding:0 15px; }
+
+
+
+/**/
+/*组合*/
+/**/
+.g_t_1{ height:90px; padding:10px 0; border-bottom:1px dashed #DDD;}
+.g_t_1 a{}
+.g_t_1 a.g_t_1_t{ color:#1372D1;line-height:30px; height:30px; overflow:hidden;font-size:14px; padding:0 10px;}
+.g_t_1 img{ float:left; padding:4px; background-color:#DDDDDD; margin:0 15px 10px 0;}
+.g_t_1 p{ color:#666; line-height:20px;padding:5px 10px; display:block; font-size:12px;}
+
+
+/**/
+/*列表*/
+/**/
+.list_1{}
+.list_1 li{ background: url(../images/list_1.gif) no-repeat left top; height:30px; line-height:30px; overflow:hidden; position:relative;padding-left:12px;
+font-size:12px;}
+.list_1 span{ position:absolute; right:0; top:0; font-size:10px; color:#999;}
+.list_1 a{ color:#858585; font-size:12px; margin-right:10px;}
+.list_1 a:hover{ color:#1372D1;}
+
+
+
+
+
+
+
+
+
+
